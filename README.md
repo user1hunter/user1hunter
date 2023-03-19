@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Server Side Programming 
-- 📫 How to reach me: user2hunter@gmail.com on Slack
+- 🌱 I’m currently learning how to work in a professional environment
+- 📫 How to reach me: user2hunter@gmail.com
